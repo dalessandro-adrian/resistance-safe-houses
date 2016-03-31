@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "DOC Espresso",
+        "Address": "326 Lygon St, Carlton VIC 3053",
+        "Review": "Italian hipsters serve great pasta",
+        "Contributor": "Adrian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.967300593853,
+          -37.79931919384242
+        ]
+      }
+    }
+  ]
+}
